@@ -14,7 +14,7 @@ sections:
       difícil período. No dudes en contactarnos, la comunicación es clave en
       estos momentos.
     actions:
-      - title: ''
+      - title: Conoce nuestras soluciones
         url: /store
         arrow: true
         style: primary
