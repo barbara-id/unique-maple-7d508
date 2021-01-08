@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Conoce nuestras soluciones
 white_header: true
 sections:
   - type: hero_section
