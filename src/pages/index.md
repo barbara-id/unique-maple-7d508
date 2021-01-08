@@ -20,7 +20,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Conoce nuestras soluciones
+    title: Conoce nuestras solucionesxczxzcxzcxczxc
     icon: true
     light_title: true
     featured_products:
