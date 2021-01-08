@@ -7,10 +7,12 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: >-
-      # Real, beautiful plants right to your door
+      # Marketing Digital en tiempos de COVID-19
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      La necesidad en Marketing Digital ha cambiado y en Ingeniería Digital
+      hemos logrado desarrollar soluciones digitales de rápida entrega para este
+      difícil período. No dudes en contactarnos, la comunicación es clave en
+      estos momentos.
     actions:
       - title: See all items
         url: /store
